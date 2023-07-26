@@ -1,0 +1,29 @@
+body{
+  background-color: #170b0b;
+}
+h1{
+  color: #ffff;
+  text-align: center;
+}
+button{
+  border-radius: 200px;
+  height: 200px;
+  width: 200px;
+  padding: 100px;
+  font-size: 50px;
+  text-align: center;
+  line-height: 50px; /* Définissez la même valeur que la hauteur des boutons */
+  font-size: 80px; /* Définissez la taille de police pour l'emoji */
+  margin: 20px; /* Marge facultative pour séparer les boutons */
+}
+.p{
+  color: #170b0b;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: xx-large;
+  border: none;
+  background-color: yellow;
+  border-radius: 60px;
+  width: 200px;
+  text-align: center;
+  margin: auto;
+}
